@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>!!! WELCOME !!!</title>
+</head>
+<body>
+<form action="./Test">
+<input type="text"placeholder="UserName" name="Uname">
+<br>
+<input type="text"placeholder="PassWord" name="Pass">
+<br>
+<input type="submit"value="Upload">
+</form>
+</body>
+</html>

@@ -1,0 +1,7 @@
+package com.te.webapp;
+
+import javax.servlet.http.HttpServlet;
+
+public class Test extends HttpServlet {
+
+}

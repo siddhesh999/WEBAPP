@@ -1,0 +1,13 @@
+<html>
+<body>
+<h2>CALCULETOR</h2>
+<form action="./number.jsp"><h4>Click here to add</h4>
+<br>
+<input type="text"name="number1">
+<br>
+<input type="text"name="number2">
+<br>
+<input type="text"name="submit">
+</form>
+</body>
+</html>

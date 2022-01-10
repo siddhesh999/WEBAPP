@@ -1,0 +1,11 @@
+INDEX VERSION 1.131
+D:\WEB APP\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1692646174.index
+\servalat2\src\main\java
+D:\WEB APP\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2401708307.index
+\webapp\src\test\java
+D:\WEB APP\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3379650499.index
+\servlet3\src\main\java
+D:\WEB APP\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4015652012.index
+\jspProject1\src\main\resources
+D:\WEB APP\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\559580716.index
+\setvelet\src\main\java
